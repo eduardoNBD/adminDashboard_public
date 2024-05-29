@@ -2,8 +2,8 @@
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
- 
-<img src="./img/home.png" alt="home" width="70%"/><img src="./img/responsive.png" alt="home" width="30%" style="float:right"/>
+
+<img src="./img/desktop.png" alt="home" width="50%"/><img src="./img/movil.png" alt="home" width="50%" style="float:right"/>
 
 ## Descripción
 
